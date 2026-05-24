@@ -2,3 +2,9 @@
 "Sergeevna" 
 "Romanovna" 
 "дополнительная строка" 
+<<<<<<< HEAD
+Galinovna 
+=======
+Sergeevna 
+>>>>>>> newdev
+Sergeevna 

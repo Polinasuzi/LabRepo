@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 partner version 
+=======
+owner version 
+>>>>>>> 68ce2cce3bd9dda31981a9fcd11d0d3e69c18aca
